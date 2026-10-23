@@ -10,4 +10,4 @@ Open Graph tags to take control over how your content appears on social sites.
 
 # GitHub Pages test site
 
-[open-graph-example](https://ralphsmith80.github.io/open-graph-example/)
+[open-graph-example](https://r4lphio.github.io/open-graph-example/)
